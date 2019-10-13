@@ -1,0 +1,65 @@
+2019-10-13 13:19:45.654 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/699121e4-872e-43b6-bf01-71d19b4de700' has been deleted
+2019-10-13 13:19:45.657 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/3b86e08f-83a3-4556-bee7-2fe6ce274052' has been deleted
+2019-10-13 13:19:45.657 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/43b13658-cf80-4769-a59a-c0d3c8818dac' has been deleted
+2019-10-13 13:19:45.658 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 36372ac1-4179-4a71-88bd-1479f20d4790 with key 0 has been deleted
+2019-10-13 13:19:45.659 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/b4b89c31-49ab-4a73-8d73-4650477909c7' has been deleted
+2019-10-13 13:19:45.660 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/9a60491b-7cf9-4643-bfa9-3cebcdedc5d3' has been deleted
+2019-10-13 13:19:45.664 [main] DEBUG com.task.cache.filesystem.FileSystemCache - Object with key '123' does not exist
+2019-10-13 13:19:45.665 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/804f2609-7f16-42b1-82d6-6f3778f7c7f4' has been deleted
+2019-10-13 13:19:45.667 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/abe46ec4-9e83-42f5-8920-b39ec0147496' has been deleted
+2019-10-13 13:19:45.670 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File b3814caa-0c98-4a2a-8689-a98ee27533ea with key 2 has been deleted
+2019-10-13 13:19:45.671 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/eef70758-eb23-46b1-a8a6-6423dbbe4e76' has been deleted
+2019-10-13 13:19:45.672 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/196364e4-614b-4045-8db8-78b13f4554ce' has been deleted
+2019-10-13 13:19:45.673 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/0ad80b9a-9e47-4972-be9b-a54042fb7420' has been deleted
+2019-10-13 13:19:45.677 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.677 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.677 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.678 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 1st level
+2019-10-13 13:19:45.678 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 2
+2019-10-13 13:19:45.678 [main] DEBUG com.task.cache.TwoLevelCache - Put key 2 to 2nd level
+2019-10-13 13:19:45.679 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 3
+2019-10-13 13:19:45.679 [main] DEBUG com.task.cache.TwoLevelCache - Put key 3 to 2nd level
+2019-10-13 13:19:45.680 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 4
+2019-10-13 13:19:45.680 [main] DEBUG com.task.cache.TwoLevelCache - Replacement key is 0
+2019-10-13 13:19:45.680 [main] DEBUG com.task.cache.TwoLevelCache - Replacing key 0 with key 4 at 1st Level
+2019-10-13 13:19:45.682 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/964dc86b-6c38-4b0a-abb0-48a0d672fef7' has been deleted
+2019-10-13 13:19:45.682 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/1098bcc1-cbef-4b23-a0cb-94fba2577080' has been deleted
+2019-10-13 13:19:45.689 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.689 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.689 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.690 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 2nd level
+2019-10-13 13:19:45.691 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/186c6954-bd4a-4e9a-84ed-b9e5a6ec429a' has been deleted
+2019-10-13 13:19:45.691 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.692 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.692 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.692 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 2nd level
+2019-10-13 13:19:45.693 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/34a41174-3ec7-4121-a821-092bf62e4d49' has been deleted
+2019-10-13 13:19:45.693 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.693 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.694 [main] DEBUG com.task.cache.TwoLevelCache - Removing key 0 from 1st level
+2019-10-13 13:19:45.694 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.694 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.695 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.695 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.696 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.696 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 2nd level
+2019-10-13 13:19:45.697 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/aeee398d-7c73-4f3c-ae96-4492b3a2c812' has been deleted
+2019-10-13 13:19:45.697 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.698 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.698 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.698 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 2nd level
+2019-10-13 13:19:45.700 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/0ba99376-0c62-49f3-b32c-87f8d572cc94' has been deleted
+2019-10-13 13:19:45.704 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 0
+2019-10-13 13:19:45.704 [main] DEBUG com.task.cache.TwoLevelCache - Put key 0 to 1st level
+2019-10-13 13:19:45.705 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 1
+2019-10-13 13:19:45.706 [main] DEBUG com.task.cache.TwoLevelCache - Put key 1 to 1st level
+2019-10-13 13:19:45.707 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 2
+2019-10-13 13:19:45.707 [main] DEBUG com.task.cache.TwoLevelCache - Put key 2 to 2nd level
+2019-10-13 13:19:45.708 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 3
+2019-10-13 13:19:45.708 [main] DEBUG com.task.cache.TwoLevelCache - Put key 3 to 2nd level
+2019-10-13 13:19:45.709 [main] DEBUG com.task.cache.TwoLevelCache - Putting key 4
+2019-10-13 13:19:45.709 [main] DEBUG com.task.cache.TwoLevelCache - Replacement key is 2
+2019-10-13 13:19:45.710 [main] DEBUG com.task.cache.TwoLevelCache - Replacing key 2 with key 4 at 2nd Level
+2019-10-13 13:19:45.710 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File f4ff83ae-8a12-40ea-8937-6ee25d185e67 with key 2 has been deleted
+2019-10-13 13:19:45.711 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/1c394045-ba54-4a4d-bc7e-79e20b1d979f' has been deleted
+2019-10-13 13:19:45.712 [main] DEBUG com.task.cache.filesystem.FileSystemCache - File 'cache/850f3b8b-154c-4940-b8d6-bb179d056b6a' has been deleted
